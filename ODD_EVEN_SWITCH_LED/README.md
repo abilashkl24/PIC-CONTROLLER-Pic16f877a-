@@ -72,3 +72,6 @@ No Switch   → 0x00 → All LEDs OFF
 ```
 
 This project helps to understand **switch interfacing, GPIO input/output control, hexadecimal bit patterns, LED interfacing, and Embedded C programming using the PIC16F877A microcontroller.**
+
+## CIRCUIT IMAGE
+![IMAGE](odd_even.png)
