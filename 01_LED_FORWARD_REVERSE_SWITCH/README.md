@@ -53,3 +53,6 @@ The sequence repeats continuously while the switch remains ON.
 | RD0            | Switch   |
 
 This project helps to understand **switch interfacing, GPIO input/output control, LED interfacing, bit shifting, time delay, and Forward/Reverse LED sequencing using Embedded C and the PIC16F877A microcontroller.**
+
+## Circuit Image
+![Circuit image](forward_reverse.png)
