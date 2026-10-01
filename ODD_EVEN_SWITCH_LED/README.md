@@ -79,5 +79,5 @@ This project helps to understand **switch interfacing, GPIO input/output control
 ## OUTPUT IMAGE EVEN
 ![image](output_image_even.png)
 
-## OUTPUT IMAGE
+## OUTPUT IMAGE ODD
 ![image](output_image_odd.png)
