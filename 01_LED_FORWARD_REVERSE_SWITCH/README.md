@@ -56,3 +56,6 @@ This project helps to understand **switch interfacing, GPIO input/output control
 
 ## Circuit Image
 ![Circuit image](forward_reverse.png)
+
+## Output Image 
+![OUTPUT](forward_reverse_output.png)
