@@ -95,7 +95,7 @@ One complete sequence takes approximately:
 This project helps to understand **PORTB configuration, GPIO output control, LED interfacing, binary and hexadecimal values, bit patterns, software delay, and sequential LED pattern generation using Embedded C and the PIC16F877A microcontroller.**
 
 ## CIRCUIT IMAGE
-![IMG](led_pattern.png)
+![IMG](led_pattern_output.png)
 
 ## OUTPUT IMAGE
-![IMG](led_pattern_output.png)
+![IMG](led_pattern.png)
