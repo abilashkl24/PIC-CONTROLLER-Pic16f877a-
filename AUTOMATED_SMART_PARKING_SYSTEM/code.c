@@ -139,6 +139,9 @@ void Servo_Frame(void)
     ENTRY_SERVO = 1;
     EXIT_SERVO = 1;
 
+    RB2 = entryOpen;
+    RB3 = exitOpen;
+
     __delay_us(1000);
 
     if(entryOpen == 0)
@@ -192,7 +195,10 @@ void main(void)
             exitOpen = 1;
         else
             exitOpen = 0;
-
+       
+        RB2 = entryOpen;
+        RB3 = exitOpen;
+   
         Servo_Frame();
 
         displayCounter++;
