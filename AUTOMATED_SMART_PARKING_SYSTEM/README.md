@@ -246,4 +246,11 @@ PDF, and screenshots only if you have them available.
 -   **Simulation:** Proteus 8 PROFESSIONL 
 -   **Language:** Embedded C (HI-TECH PICC)
 
-Replace `ABILASH S` with your preferred name before publishing.
+## CIRCUIT IMAGE 
+![IMAGE](output_image_no_free_slots.png)
+
+## OUTPUT IMAGE NO FREE SLOTS
+![IMAGE](image.png)
+
+## OUTPUT IMAGE 4 FREE SLOTS
+![IMAGE](output_image_4_free_slots.png)
