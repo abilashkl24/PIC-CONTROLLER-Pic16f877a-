@@ -157,10 +157,14 @@ Through this project, I gained practical knowledge of:
 
 **Abilash S.**
 
-Embedded Systems Engineer | Embedded C | PIC Microcontrollers | Hardware Interfacing
-
 ---
 
 ⭐ If you find this project interesting, feel free to star this repository!
 
 **Learning by Doing | Building Real-Time Embedded Applications**
+
+## OUTPUT CICUIT IMAGE 
+![IMAGE](<Screenshot 2026-11-01 192444.png>)
+
+## OUTPUT IMAGE 
+![IMAGE](image.png)
