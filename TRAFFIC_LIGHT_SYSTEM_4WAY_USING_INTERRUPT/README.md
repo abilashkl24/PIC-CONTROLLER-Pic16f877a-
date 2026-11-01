@@ -163,8 +163,15 @@ Through this project, I gained practical knowledge of:
 
 **Learning by Doing | Building Real-Time Embedded Applications**
 
-## OUTPUT CICUIT IMAGE 
+## OUTPUT CIRCUIT IMAGE 
 ![IMAGE](<Screenshot 2026-11-01 192444.png>)
 
 ## OUTPUT IMAGE 
 ![IMAGE](image.png)
+
+## OUTPUT IMAGE INTERRUPT ENABLING
+![IMAGE](image-1.png)
+
+![IMAGE](image-2.png)
+
+![IMAGE](image-3.png)
