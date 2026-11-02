@@ -175,3 +175,6 @@ Through this project, I gained practical knowledge of:
 ![IMAGE](image-2.png)
 
 ![IMAGE](image-3.png)
+
+## OUTPUT VIDEO
+<video controls src="Screen Recording 2026-11-01 193204.mp4" title="VIDEO"></video>
